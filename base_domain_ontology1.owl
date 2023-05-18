@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="https://github.com/GriebelerGabriel/-S2C2-FileRepositoryTest/edit/main/base_domain_ontology1.owl"
+     xml:base="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-UFRGS-ReferenceFiles/main/base_domain_ontology1.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="https://github.com/GriebelerGabriel/-S2C2-FileRepositoryTest/edit/main/base_domain_ontology1.owl">
+     ontologyIRI="https://raw.githubusercontent.com/ProjetoS2C2Redes/S2C2-UFRGS-ReferenceFiles/main/base_domain_ontology1.owl">
     <Prefix name="" IRI="http://myontology.com/scenario#"/>
     <Prefix name="p0" IRI="http://example.com#"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
